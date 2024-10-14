@@ -1,0 +1,4 @@
+Customer_ID,Customer_Name,Customer_Email,Cart_Abandonment_Rate,Anomaly
+1287,Chris White,alicebrown@mail.com,0.5,-1
+1322,Alice Brown,alicebrown@mail.com,0.47,-1
+1039,Jane Smith,chriswhite@mail.com,0.48,-1
